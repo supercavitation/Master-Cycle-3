@@ -456,7 +456,7 @@
   },
   {
   	"speciesId": "necrozma_dawn_wings",
-  	"chargedMoves": ["MOONGEIST_BEAM","OUTRAGE"],
+  	"chargedMoves": ["MOONGEIST_BEAM","DARK_PULSE"],
   	"weight": 1
   },
   {
