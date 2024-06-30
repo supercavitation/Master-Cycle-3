@@ -1,0 +1,35 @@
+{
+    "name": "battlefrontiermaster",
+    "title": "Battle Frontier (Master League)",
+    "include": [],
+    "exclude": [{
+        "filterType": "id",
+        "values": ["groudon_primal", "kyogre_primal", "gyarados_mega", "rayquaza_mega"]
+    }],
+    "tierRules": {
+        "max": 8,
+        "floor": 0,
+        "tiers": [{
+            "points": 8,
+            "pokemon": ["swampert_mega", "gardevoir_mega", "garchomp_mega", "salamence_mega", "tyranitar_mega", "latios_mega"]
+        }, {
+            "points": 6,
+            "pokemon": ["scizor_mega", "charizard_mega_y", "latias_mega", "zygarde_complete", "necrozma_dawn_wings"]
+        }, {
+            "points": 5,
+            "pokemon": ["gengar_mega", "heracross_mega", "necrozma_dusk_mane"]
+        }, {
+            "points": 4,
+            "pokemon": ["zacian_hero", "solgaleo", "xerneas", "landorus_therian", "dialga_origin", "palkia_origin"]
+        }, {
+            "points": 3,
+            "pokemon": ["giratina_origin", "giratina_altered", "kyogre",  "groudon", "mewtwo", "dialga", "ho_oh", "meloetta_aria", "aggron_mega", "steelix_mega"]
+        }, {
+            "points": 2,
+            "pokemon": ["zekrom", "palkia", "slowbro_mega", "reshiram", "charizard_mega_x", "blastoise_mega", "zarude", "marshadow", "lugia"]
+        }, {
+            "points": 1,
+            "pokemon": ["genesect", "genesect_burn", "genesect_douse", "genesect_chill", "genesect_shock", "dragonite", "melmetal", "yveltal", "rayquaza", "kyurem","heatran","florges","mew","gyarados"]
+        }]
+    }
+}
