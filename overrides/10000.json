@@ -553,7 +553,7 @@
   {
     "speciesId": "salamence_mega",
     "fastMove": "DRAGON_TAIL",
-    "chargedMoves": ["OUTRAGE","FIRE_BLAST"],
+    "chargedMoves": ["OUTRAGE","FLY"],
     "weight": 5
   },
   {
