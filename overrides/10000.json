@@ -28,6 +28,11 @@
     "weight": 1
   },
   {
+    "speciesId": "annihilape",
+    "chargedMoves": ["ICE_PUNCH", "SHADOW_BALL"],
+    "weight": 1
+  },
+  {
     "speciesId": "articuno_galarian",
     "chargedMoves": ["ANCIENT_POWER","BRAVE_BIRD"],
     "weight": 1
@@ -308,7 +313,7 @@
   {
     "speciesId": "kyogre",
     "fastMove": "WATERFALL",
-    "chargedMoves": ["SURF","THUNDER"],
+    "chargedMoves": ["SURF","ORIGIN_PULSE"],
     "weight": 3
   },
   {
@@ -696,6 +701,11 @@
   },
   {
     "speciesId": "zapdos",
+    "chargedMoves": ["DRILL_PECK","THUNDERBOLT"],
+    "weight": 1
+  },
+  {
+    "speciesId": "zapdos_shadow",
     "chargedMoves": ["DRILL_PECK","THUNDERBOLT"],
     "weight": 1
   },
