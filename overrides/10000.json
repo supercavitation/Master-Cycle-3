@@ -330,7 +330,7 @@
   {
     "speciesId": "kyogre",
     "fastMove": "WATERFALL",
-    "chargedMoves": ["SURF","ORIGIN_PULSE"],
+    "chargedMoves": ["SURF","THUNDER"],
     "weight": 3
   },
   {
@@ -689,7 +689,12 @@
   },
   {
     "speciesId": "ursaluna",
-    "chargedMoves": ["ICE_PUNCH","HIGH_HORSEPOWER"],
+    "chargedMoves": ["SWIFT","HIGH_HORSEPOWER"],
+    "weight": 1
+  },
+  {
+    "speciesId": "ursaluna_shadow",
+    "chargedMoves": ["SWIFT","HIGH_HORSEPOWER"],
     "weight": 1
   },
   {
