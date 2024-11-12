@@ -34,7 +34,12 @@
   },
   {
     "speciesId": "annihilape",
-    "chargedMoves": ["ICE_PUNCH", "SHADOW_BALL"],
+    "chargedMoves": ["RAGE_FIST", "ICE_PUNCH"],
+    "weight": 1
+  },
+  {
+    "speciesId": "annihilape_shadow",
+    "chargedMoves": ["RAGE_FIST", "ICE_PUNCH"],
     "weight": 1
   },
   {
